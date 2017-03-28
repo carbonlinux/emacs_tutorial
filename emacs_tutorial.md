@@ -41,8 +41,8 @@ Emacs tutorial
 
 	       <C-x>2      - Split window horizontally
 	       <C-x>3      - Split window vertically
-               <C-x>o      - Move cursor to another window
-               <C-x>1      - Make unique window
+           <C-x>o      - Move cursor to another window
+           <C-x>1      - Make unique window
 	       <C-x>0 	   - Will kill current window and move to other window
 	       <C-x>4f     - Will find file in another window
 
@@ -60,7 +60,6 @@ Emacs tutorial
 	       <C-x><C-c>   - To Exit buffer file
 
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
