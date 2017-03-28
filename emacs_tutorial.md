@@ -6,7 +6,7 @@ Emacs tutorial
    
               <C-x C-f>FILENAME  - To create file
 
-" Moving kevelocitys 
+" Moving keys
         
                     
                      <C-p>                               up
