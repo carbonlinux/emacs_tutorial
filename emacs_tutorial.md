@@ -1,3 +1,4 @@
+
 Emacs tutorial 
 ===
 
@@ -51,7 +52,15 @@ Emacs tutorial
 	       <C-s>        - To search words
 	       <C-s>        - To move forword in search
 	       <C-r>        - To move backword in search
-               
+
+" Save and quit
+
+	       <C-x><C-s>   - To save buffer file
+	       <C-x>s       - To save all buffer file
+	       <C-x><C-c>   - To Exit buffer file
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
